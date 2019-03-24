@@ -1,11 +1,13 @@
 #!/bin/bash
 
-mkdir ~/.vimbackups
+if [[ ! -d ~/.vimbackups ]] ;
+then
+    mkdir ~/.vimbackups
+fi
 
 for i in .*; do
     if [[ $i != .git* ]] && [[ $i != *.swp ]] && [[ $i != . ]] && [[ $i != .. ]] ;
     then
-        rm ../$i
-        ln -s dotfiles/$i ../$i
+        ln -sf ~/dotfiles/$i ~/$i
     fi
 done
