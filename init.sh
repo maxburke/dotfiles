@@ -1,5 +1,7 @@
 #!/bin/bash
 
+mkdir ~/.vimbackups
+
 for i in .*; do
     if [[ $i != .git* ]] && [[ $i != *.swp ]] && [[ $i != . ]] && [[ $i != .. ]] ;
     then
