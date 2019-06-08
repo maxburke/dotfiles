@@ -22,3 +22,6 @@
 [submodule ".vim/bundle/vim-protobuf"]
 	path = .vim/bundle/vim-protobuf
 	url = https://github.com/uarun/vim-protobuf
+[submodule ".vim/bundle/vim-flatbuffers"]
+	path = .vim/bundle/vim-flatbuffers
+	url = https://github.com/dcharbon/vim-flatbuffers
