@@ -25,3 +25,9 @@
 [submodule ".vim/bundle/vim-flatbuffers"]
 	path = .vim/bundle/vim-flatbuffers
 	url = https://github.com/dcharbon/vim-flatbuffers
+[submodule ".vim/bundle/vim-terraform"]
+	path = .vim/bundle/vim-terraform
+	url = https://github.com/hashivim/vim-terraform.git
+[submodule ".vim/bundle/vim-es6"]
+	path = .vim/bundle/vim-es6
+	url = https://github.com/isruslan/vim-es6
