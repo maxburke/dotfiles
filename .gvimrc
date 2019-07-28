@@ -11,7 +11,7 @@ set autoindent
 set cindent
 set bs=2
 set columns=140
-set lines=45
+set lines=60
 set ruler
 set nobackup
 color evening
