@@ -28,3 +28,6 @@
 [submodule ".vim/bundle/vim-terraform"]
 	path = .vim/bundle/vim-terraform
 	url = https://github.com/hashivim/vim-terraform.git
+[submodule ".vim/bundle/graphviz.vim"]
+	path = .vim/bundle/graphviz.vim
+	url = git@github.com:liuchengxu/graphviz.vim.git
