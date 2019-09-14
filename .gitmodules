@@ -28,3 +28,6 @@
 [submodule ".vim/bundle/vim-terraform"]
 	path = .vim/bundle/vim-terraform
 	url = https://github.com/hashivim/vim-terraform.git
+[submodule ".vim/bundle/slimv"]
+	path = .vim/bundle/slimv
+	url = git@github.com:kovisoft/slimv.git
