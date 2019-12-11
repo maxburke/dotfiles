@@ -31,3 +31,6 @@
 [submodule ".vim/bundle/graphviz.vim"]
 	path = .vim/bundle/graphviz.vim
 	url = git@github.com:liuchengxu/graphviz.vim.git
+[submodule ".vim/bundle/slimv"]
+	path = .vim/bundle/slimv
+	url = git@github.com:kovisoft/slimv.git
