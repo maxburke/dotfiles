@@ -40,3 +40,6 @@
 [submodule ".vim/bundle/vim-desert256"]
 	path = .vim/bundle/vim-desert256
 	url = https://github.com/brafales/vim-desert256.git
+[submodule ".vim/bundle/gruvbox"]
+	path = .vim/bundle/gruvbox
+	url = git@github.com:morhetz/gruvbox.git
