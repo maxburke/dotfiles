@@ -25,3 +25,7 @@ augroup END
 
 set noundofile
 execute pathogen#infect()
+
+color gruvbox
+se bg=dark
+au FocusGained,BufEnter * :checktime
