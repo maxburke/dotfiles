@@ -25,3 +25,11 @@ augroup END
 
 set noundofile
 execute pathogen#infect()
+color gruvbox
+
+set complete-=i
+
+if has('gui_macvim')
+    anoremenu 1.1 TouchBar.-flexspace- <Nop>
+    tlnoremenu 1.1 TouchBar.-flexspace- <Nop>
+endif
