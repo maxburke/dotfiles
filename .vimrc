@@ -33,3 +33,6 @@ if has('gui_macvim')
     anoremenu 1.1 TouchBar.-flexspace- <Nop>
     tlnoremenu 1.1 TouchBar.-flexspace- <Nop>
 endif
+
+se bg=dark
+au FocusGained,BufEnter * :checktime

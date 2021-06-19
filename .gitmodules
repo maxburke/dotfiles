@@ -37,6 +37,12 @@
 [submodule ".vim/bundle/vim-jsx-typescript"]
 	path = .vim/bundle/vim-jsx-typescript
 	url = git@github.com:peitalin/vim-jsx-typescript.git
+[submodule ".vim/bundle/vim-desert256"]
+	path = .vim/bundle/vim-desert256
+	url = https://github.com/brafales/vim-desert256.git
 [submodule ".vim/bundle/gruvbox"]
 	path = .vim/bundle/gruvbox
 	url = git@github.com:morhetz/gruvbox.git
+[submodule ".vim/bundle/vim-tmux-focus-events"]
+	path = .vim/bundle/vim-tmux-focus-events
+	url = git@github.com:tmux-plugins/vim-tmux-focus-events.git
