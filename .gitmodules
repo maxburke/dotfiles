@@ -46,3 +46,6 @@
 [submodule ".vim/bundle/vim-tmux-focus-events"]
 	path = .vim/bundle/vim-tmux-focus-events
 	url = git@github.com:tmux-plugins/vim-tmux-focus-events.git
+[submodule ".vim/bundle/vim-hcl"]
+	path = .vim/bundle/vim-hcl
+	url = git@github.com:jvirtanen/vim-hcl.git
