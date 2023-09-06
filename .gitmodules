@@ -49,3 +49,6 @@
 [submodule ".vim/bundle/vim-hcl"]
 	path = .vim/bundle/vim-hcl
 	url = git@github.com:jvirtanen/vim-hcl.git
+[submodule ".vim/bundle/copilot.vim"]
+	path = .vim/bundle/copilot.vim
+	url = https://github.com/github/copilot.vim.git
